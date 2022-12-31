@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# a. Introduction to React
 
 Exercises for Part1
 
-### Available Scripts
-For Full Stack Open
+## Full Stack Open
