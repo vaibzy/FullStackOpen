@@ -1,9 +1,7 @@
 const Total = (props) => {
 
-    //console.log(props);
-
     return (
-        <p>Number of exercises {props.parts.map((elem) => {
+        <p>Number of exercises {props.course.parts.map((elem) => {
             return elem.exercises;
         }).reduce((acc, curVal) => {
             return (acc + curVal);
